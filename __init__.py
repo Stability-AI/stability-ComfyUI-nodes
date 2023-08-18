@@ -4,6 +4,7 @@ import os
 node_list = [ #Add list of .py files containing nodes here
     "control_lora_create",
     "color_blend",
+    "image_nodes"
 ]
 
 NODE_CLASS_MAPPINGS = {}
