@@ -2,6 +2,9 @@
 
 git clone this repo to your ComfyUI/custom_nodes folder, it should look like: ComfyUI/custom_nodes/stability-ComfyUI-nodes
 
+On the standalone you can run: standalone_install_requirements.bat to install the dependencies. On a manual install you should: ```pip install -r requirements.txt```
+
+
 These nodes will appear in the stability section.
 
 ### ControlLoraSave
